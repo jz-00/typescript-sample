@@ -1,4 +1,4 @@
-# typescript-sample
+# TypeScript Sample
 
 ### **Authenticated CDN**
 
